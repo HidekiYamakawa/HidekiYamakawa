@@ -2,7 +2,7 @@
 
 #### Português-Brasil
 ## Olá pessoal 👋
-Sou apaixonado pela tecnologia e pela natureza, quero fazer o futuro melhor com a tecnologia e sempre ajudando na natureza.<br/>
+Sou apaixonado pela tecnologia e pela natureza, quero fazer o futuro melhor com a tecnologia e sempre ajudando a natureza.<br/>
 Não possuo nenhuma experiência profissional :computer:
 
  📚  &nbsp; Estou estudando na **Universidade de Mogi das Cruzes** (UMC)
