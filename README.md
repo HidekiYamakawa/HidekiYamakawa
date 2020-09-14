@@ -3,7 +3,6 @@
 #### Português-Brasil
 ## Olá pessoal 👋
 Sou apaixonado pela tecnologia e pela natureza, quero fazer o futuro melhor com a tecnologia e sempre ajudando a natureza.<br/>
-Não possuo nenhuma experiência profissional :computer:
 
  📚  &nbsp; Estou estudando na **Universidade de Mogi das Cruzes** (UMC)
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, natureza, games como CS:GO e filmes da Marvel
@@ -15,7 +14,6 @@ Não possuo nenhuma experiência profissional :computer:
 #### English-USA
 ## Hi there 👋
 I'm in love for technology and nature, I want to make the future better with the technology and always helping the nature.<br/>
-I have no professional experience :computer:
 
  📚  &nbsp; Studying Information Systems at **University of Mogi das Cruzes (UMC)
  <br/> 💬  &nbsp; About me: I like technology, nature, games like CS:GO and Marvel's movies
